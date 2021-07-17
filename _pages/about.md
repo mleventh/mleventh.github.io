@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Matthew Leventhal's personal website! If you have found this website already, you must be eager to learn more about me. Come back in about a week or so and hopefully this site will be full of useful and interesting information about myself!
+I am a Computational and Systems Biology PhD student at MIT working with Ernest Fraenkel in the department of Biological Engineering. I earned a BA in Biology and Mathematics from Bowdoin College in 2017, after which I worked under Benjamin Ebert and Gad Getz as a Computational Asssociate at the Broad Institute.
+
+My broad research interests are in applying and developing computational methods for understanding the genetic and molecular basis for aging-associated diseases. Currently, I focus on studying neurodegenerative diseases such as Alzheimer's Disease to understand the biological processes associated with genetic risk factors of neurodegeneration.
