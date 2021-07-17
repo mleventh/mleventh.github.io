@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to CV](https://mleventh.github.io/files/Matthew_Leventhal_CV_2021.pdf)
+[Link to CV](http://mleventh.github.io/files/Matthew_Leventhal_CV_2021.pdf)
 
 Education
 ======
