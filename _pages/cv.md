@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to CV]("CV.pdf")
+[Link to CV](mleventh.github.io/files/CV.pdf)
 
 Education
 ======
