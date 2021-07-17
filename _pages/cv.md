@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Link to CV]{"CV.pdf"}
+
 Education
 ======
 * B.A. in Biology and Mathematics, Bowdoin College 2017
