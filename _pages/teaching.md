@@ -1,4 +1,4 @@
-## Teaching Assistant for 20.440: Analysis of Biological Networks in Spring 2021
+## Graduate Teaching Assistant for 20.440: Analysis of Biological Networks in Spring 2021 at MIT
 
 Graded assignments and prepared lectures for recitation for the required spring graduate course for the MIT Biological Engineering PhD progam
 
