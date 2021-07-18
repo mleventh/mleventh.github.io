@@ -11,4 +11,4 @@ Graded assignments and prepared lectures for recitation for the required spring 
 
 ## Bowdoin Center for teaching and learning
 * Drop-in tutor for Mathematics, Biology and Chemistry, Fall 2016
-* Study Group leader for BIO 1109: Scientific Reasoning in Biology, Spring 2016
+* Study Group leader for BIOL 1109: Scientific Reasoning in Biology, Spring 2016
