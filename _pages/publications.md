@@ -15,11 +15,12 @@ author_profile: true
 
 ### Publications
 
-## Works from in the Fraenkel lab at MIT
+**Works from the Fraenkel lab at MIT**
 
 (In Preparation) **Leventhal, Matthew**, Joseph Benetatos, Camilla A Zanella, Byunguk Kang, Christopher Ng, David Housman, Clemens R Scherzer, Mel B Feany, Ernest Fraenkel. A systems biology approach reveals common pathways of neurodegeneration
 
-## Works from the Broad Institute in Clonal Hematopoiesis
+**Works from the Broad Institute with Benjamin Ebert and Gad Getz in Clonal Hematopoiesis**
+
 Ellen Beauchamp, **Matthew Leventhal**, Elsa Bernard, Emma Hoppe, Gabriele Todisco Maria Creignou, Anna Galli, Cecilia Castelano, Marie McConkey, Akansha Tarun, Waihay Wong, Monica Schenone, Caroline Stanclift, Benjamin Tanenbaum, Edyta Malolepsza, Björn Nilsson, Alexander Bick, Joshua Weinstock, Mendy Miller, Abhishek Niroula, Andrew Dunford, Amaro Taylor-Weiner, Timothy Wood, Alex Barbera, Shankara Anand, Bruce Psaty, Pinkal Desai, Michael Cho, Andrew Johnson, Ruth Loos, Daniel MacArthur, Monkol Lek, Donna Neuberg, Kasper Lage, Steven Carr, Eva Hellström-Lindberg, Luca Malcovati, Elli Papaemmanuil, Chip Stewart, Gad Getz, Robert Bradley, Siddhartha Jaiswal and Benjamin Ebert. 2021. ZBTB33 is Mutated In clonal hematopoiesis and myelodysplastic syndromes and impacts RNA Splicing. Blood Cancer Discovery.
 
 Bick, Alex G, ..., **Matthew J Leventhal**, ..., Sekar Kathiresan and Pradeep Natarajan. 2020. Inherited causes of clonal haematopoiesis in 97,691 whole genomes. Nature. 586: 763-768.
@@ -32,7 +33,7 @@ Boettcher, Steffen, Peter G. Miller, Rohan Sharma, Marie McConkey, **Matthew Lev
 
 Jan, Max, **Matthew J Leventhal**, Elizabeth A Morgan, Jordan C Wengrod, Anewsha Nag, Samantha D Drinian, Bruce M Wollison, Matthew D Ducar, Aaron R Thorner, Natasha Kekre, Vincent T Ho, John Koreth, Corey S Cutler, Sarah Nikiforow, Edwin P Alyea III, Joseph H Antin, Robert J Soiffer, Jerome Ritz, R. Coleman Lindsley, and Benjamin L Ebert. 2019. Recurrent genetic HLA loss in Acute Myeloid Leukemia relapsed after matched unrelated allogeneic hematopoietic cell transplant. Blood Advances. 3 (14): 2199–2204.
 
-## Undergraduate work
+**Undergraduate work
 
 Douhovnikoff, Vladimir, and **Matthew Leventhal**. 2016. The use of Hardy Weinberg Equilibrium in clonal plant systems. Ecology and Evolution. http://onlinelibrary.wiley.com/doi/10.1002/ece3.1946/full.
 
