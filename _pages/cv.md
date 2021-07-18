@@ -11,7 +11,7 @@ redirect_from:
 
 [Link to CV](http://mleventh.github.io/files/Matthew_Leventhal_CV_2021.pdf)
 
-Education
+<!-- Education
 ======
 * B.A. in Biology and Mathematics, Bowdoin College 2017
 * Ph.D in Computational and Systems Biology, MIT 2024 (expected)
@@ -58,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
