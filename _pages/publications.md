@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-### Publications
+## Publications
 
 **Works from the Fraenkel lab at MIT**
 
@@ -33,15 +33,15 @@ Boettcher, Steffen, Peter G. Miller, Rohan Sharma, Marie McConkey, **Matthew Lev
 
 Jan, Max, **Matthew J Leventhal**, Elizabeth A Morgan, Jordan C Wengrod, Anewsha Nag, Samantha D Drinian, Bruce M Wollison, Matthew D Ducar, Aaron R Thorner, Natasha Kekre, Vincent T Ho, John Koreth, Corey S Cutler, Sarah Nikiforow, Edwin P Alyea III, Joseph H Antin, Robert J Soiffer, Jerome Ritz, R. Coleman Lindsley, and Benjamin L Ebert. 2019. Recurrent genetic HLA loss in Acute Myeloid Leukemia relapsed after matched unrelated allogeneic hematopoietic cell transplant. Blood Advances. 3 (14): 2199–2204.
 
-**Undergraduate work
+**Undergraduate work**
 
 Douhovnikoff, Vladimir, and **Matthew Leventhal**. 2016. The use of Hardy Weinberg Equilibrium in clonal plant systems. Ecology and Evolution. http://onlinelibrary.wiley.com/doi/10.1002/ece3.1946/full.
 
-### Workshops
+## Workshops
 
 Tariq, Ifrah, **Matthew Leventhal**, Diep Nguyen. Estimating Latent Space Uncertainty to Improve Integration of Multi-Omic Sequencing Data. Learning Meaningful Representations of Life Workshop at the Conference on Neural Information Processing Systems (NeurIPS).
 
-### Conference abstracts
+## Conference abstracts
 
 Jan, Max, **Matt J Leventhal**, Elizabeth A Morgan, Jordan C Wengrod, Anewsha Nag, Samantha D Drinian, Bruce M Wollison, Matthew D Ducar, Aaron R Thorner, Natasha Kekre, Vincent T Ho, John Koreth, Corey S Cutler, Sarah Nikiforow, Edwin P Alyea III, Joseph H Antin, Robert J Soiffer, Jerome Ritz, R. Coleman Lindsley, and Benjamin L Ebert. Recurrent genetic HLA loss in Acute Myeloid Leukemia relapsed after matched unrelated allogeneic hematopoietic cell transplant. American Society of Hematology. December 1, 2018. https://ash.confex.com/ash/2018/webprogram/Paper113911.html
 
