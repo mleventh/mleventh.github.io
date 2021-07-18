@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-## Papers
+## Publications
 
 **Works from in the Fraenkel lab at MIT**
 
